@@ -7,5 +7,3 @@
 - html
 - css
 - javascribt
-
-## links
